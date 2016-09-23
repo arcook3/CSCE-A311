@@ -24,12 +24,18 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="myStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DLL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RPN Calculator.cpp">
+    <ClCompile Include="Reverse Polish Notation Calculator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

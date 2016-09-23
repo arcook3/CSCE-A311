@@ -1,5 +1,5 @@
 // stdafx.cpp : source file that includes just the standard includes
-// RPN Calculator.pch will be the pre-compiled header
+// Reverse Polish Notation Calculator.pch will be the pre-compiled header
 // stdafx.obj will contain the pre-compiled type information
 
 #include "stdafx.h"
